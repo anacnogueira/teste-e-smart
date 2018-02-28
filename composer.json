@@ -1,0 +1,9 @@
+{
+
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
